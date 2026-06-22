@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+meetings.db
+
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+tmp/
+uploads/
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
